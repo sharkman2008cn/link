@@ -1,2 +1,2 @@
 # link
-link all
+link all super market over VPN
